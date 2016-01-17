@@ -1,4 +1,4 @@
-See post over @ cdaringe.com to read up on laser lamping!
+See [this post](http://cdaringe.com/laser-lamps-a-very-maker-christmas/) over @ [cdaringe.com](http://cdaringe.com/) to read up on laser lamping!
 
 # build instruction
 - wire similarly to the [kerf](http://www.instructables.com/id/Kerf-Table-Lamp/) instructable.  it's electronically (functionally, not component-wise) ~the same, except the physical board layout is different. we will use a breadboard, they used a board they made themselves.  wire it up the same regardless, disregarding physical layout.
